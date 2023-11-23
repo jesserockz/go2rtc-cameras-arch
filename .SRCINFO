@@ -1,0 +1,10 @@
+pkgbase = go2rtc-cameras
+	pkgver = 0.0.1
+	pkgrel = 1
+	arch = any
+	depends = ffmpeg
+	depends = jq
+	source = cameras.json
+	sha256sums = SKIP
+
+pkgname = go2rtc-cameras

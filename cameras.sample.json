@@ -1,0 +1,7 @@
+{
+  "go2rtc": "192.168.1.10:8554",
+  "suffix": "_sub",
+  "cameras": {
+    "back_door": "Back Door"
+  }
+}
